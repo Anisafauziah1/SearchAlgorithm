@@ -25,6 +25,7 @@ namespace SearchAlgorithm
                     break;
                 else
                     Console.WriteLine("|rArray should have minimum 1 and maximum 20 elements.\n");
+
             }
         }
     }
